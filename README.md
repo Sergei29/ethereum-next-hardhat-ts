@@ -1,3 +1,9 @@
+## to Deploy Smart contract:
+
+- `npm run hardhat:node`
+- `npm run hardhat:deploy scripts/deploy-hello.ts` ( optional to see if contract is deployable)
+- `npm run dev`
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
